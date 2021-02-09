@@ -7,5 +7,5 @@ This is a rock paper scissors game. This game was developed with the following t
     
   # Thank You To (lookingcoolonavespa)
   
-  Thanks to lookingcoolonavespa for inspiring me for the design idea. I hope you allow me to iplement some of your incredible design elements. (NOTE: I am not copying any of your code I am just taking inspiration of your css design)
+  Thanks to lookingcoolonavespa for inspiring me for the design idea. I hope you allow me to implement some of your incredible design elements. (NOTE: I am not copying any of your code I am just taking inspiration of your css design)
 
