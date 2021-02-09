@@ -1,7 +1,7 @@
 # RockPaperScissorsShoot
 This is a rock paper scissors game. This game was developed with the following technologiges.
     HTML CSS JAVASCRIPT
-    I(Aarnav Trivedi Coding) have created a rock paper scissors game. This game showcases my ability to create a simple program from scratch. I used the math.random and math.floor to calculate a random rock paper or scissors option. This project is as of 2/8/2020 still in development without the features of Reset or scoreboard. Stay tuned for those features. 
+    I(Aarnav Trivedi Coding) have created a rock paper scissors game. This game showcases my ability to create a simple program from scratch. I used the math.random and math.floor to calculate a random rock paper or scissors option. This project is as of 2/9/2020 is OFFICIALLY FINISHED!!! I have fully finished the features such as Reset, Random and a scoreboard. This is my first main project on my own from scratch. 
     
   # Thank You To (lookingcoolonavespa)
   
