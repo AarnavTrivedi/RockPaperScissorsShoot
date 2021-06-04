@@ -145,11 +145,23 @@ let computer = Math.floor(Math.random() * 3)
 
        
   }
+   
+   (player === 1 && computer === 2){  
+   
+  document.getElementById("win").textContent = "Paper"
+      document.getElementById("lose").textContent = "Scissors"
+        document.getElementById("outcome").textContent = "You Lost!"
+             document.getElementById("outcome").style.color = "red";
+             player2 += 1 
+  compscore = document.getElementById("score2").innerText = player2      
+   
+   
+   }
 
    
   
   if(player2 >= 25 && player3 < 25 ){
-    document.querySelector(".wintag").textContent = "Haha Loser Your Trash Kid!"
+    document.querySelector(".wintag").textContent = "You Lost!"
     document.querySelector(".wintag").style.color = "#7d1616"
     setTimeout(score, 4000);
 
